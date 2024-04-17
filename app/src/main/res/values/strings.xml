@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Players of Esports MLBB</string>
+
+
+    <string name="my_name">Petra Timotius Anba</string>
+    <string name="my_email">a172d4ky3746@bangkit.academy</string>
+
+
+    <string name="heroes_name">Nama Player</string>
+    <string name="description">Deskripsi</string>
+    <string name="role">Role</string>
+    <string name="team_esports">Team</string>
+
+    <string-array name="data_role">
+        <item>Midlaner</item>
+        <item>Explaner</item>
+        <item>Roamer</item>
+        <item>Goldlaner</item>
+        <item>Explaner</item>
+        <item>Explaner</item>
+        <item>Jungler</item>
+        <item>Jungler</item>
+        <item>Midlaner</item>
+        <item>Goldlaner</item>
+    </string-array>
+
+    <string-array name="data_team">
+        <item>Alter Ego</item>
+        <item>Aura Fire</item>
+        <item>Bigetron Esports</item>
+        <item>Rebellion Zion</item>
+        <item>RRQ Sena</item>
+        <item>Evos Legends</item>
+        <item>Geek Fam</item>
+        <item>Onic Esports</item>
+        <item>RRQ Hoshi</item>
+        <item>RRQ Hoshi</item>
+    </string-array>
+
+    <string name="about">About</string>
+    <string-array name="data_name">
+        <item>AE Udil</item>
+        <item>AURA Aran</item>
+        <item>BTR Kyy</item>
+        <item>RBL Haizz</item>
+        <item>Dyrennn</item>
+        <item>EVOS Dlar</item>
+        <item>GEEK Nnael</item>
+        <item>ONIC Kairi</item>
+        <item>RRQ Lemon</item>
+        <item>RRQ Skylar</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Muhammad "Udil" Ardiansyah (born July 2, 2001) is an Indonesian player who is currently playing as a Mid Laner for AlterEgo. Nicknamed "Spicy Boy" because of his spicy words and taunts.</item>
+        <item>Aldhia "Aran" Aranda (born February 23, 2003) is an Indonesian player who is currently playing as an EXP Laner for AURA Fire.</item>
+        <item>Hengky "Kyy" Gunawan (born November 9, 2003) is an Indonesian player who is currently playing as a Roamer for Bigetron Alpha. Has 100% win rate with Diggie at Piala Presiden 2022 ( 6 win, 0 loss )</item>
+        <item>Dhannya "Haiz" Hoputra is an Indonesian player who is currently playing as a Gold Laner for Rebellion.</item>
+        <item>Rendy "Dyrennn" Syahputra (formerly known as Coyy) is an Indonesian player who is currently playing as an EXP Laner for RRQ Sena.</item>
+        <item>Gerald "Dlar" Trinchera (born September 3, 1999) is a Filipino player who is currently playing as an EXP Laner for EVOS Legends.</item>
+        <item>Manuel "Nnael" Simbolon (formerly known as Vi Mornov) (born January 18, 2006) is an Indonesian player who is currently playing as a Jungler for GEEK FAM.</item>
+        <item>Kairi "Kairi" Rayosdelsol (born September 21, 2005) is a Filipino player who is currently playing as a Jungler for ONIC.</item>
+        <item>Muhammad "Lemon" Ikhsan (born December 30, 1998) is an inactive Indonesian player who is currently playing as a Mid Laner for RRQ Hoshi.</item>
+        <item>Schevenko "Skylar" Tendean (born February 25, 2002) is an Indonesian player who is currently playing as a Gold Laner for RRQ Hoshi.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ae_udil</item>
+        <item>@drawable/aura_aran</item>
+        <item>@drawable/btr_kyy</item>
+        <item>@drawable/rbl_haiz</item>
+        <item>@drawable/dyrennn</item>
+        <item>@drawable/evos_dlar</item>
+        <item>@drawable/geek_nnael</item>
+        <item>@drawable/onic_kairi</item>
+        <item>@drawable/lemon</item>
+        <item>@drawable/rrq_skylar</item>
+    </integer-array>
+</resources>
